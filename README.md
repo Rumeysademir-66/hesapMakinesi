@@ -35,10 +35,10 @@ The purpose of this project is to practice C# programming, Windows Forms applica
 
 ```bash
 git clone https://github.com/Rumeysademir-66/hesapMakinesi.git
+```
 
 ## Screenshot
-
-![Calculator App](screenshot (2).png)
+![Calculator App](screenshot%20(2).png)
 ## Author
 
 Rümeysa Demir
